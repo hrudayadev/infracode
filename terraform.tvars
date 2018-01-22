@@ -1,0 +1,5 @@
+aws_profile = "mycreds"
+aws_region = "us-east-2"
+key_name = "loginenckey"
+public_key_path = "/home/ubuntu/.ssh/loginenckey.pub"
+
